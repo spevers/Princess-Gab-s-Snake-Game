@@ -21,7 +21,7 @@ ITEM_DICT = {"mario hat":"images/mario_hat.png", "luigi hat": "images/mario_hat.
               "ryuk":"images/deathnote.png", "L":"images/deathnote.png"}
 
 KIRBY_DICT = {"mario hat":"images/mario_kirby.png", "luigi hat": "images/luigi_kirby.png", "peach hair": "images/peach_kirby.png",
-               "harry potter":"images/harry_potter_kirby.png", "images/dumbledore":"dumbledore_kirby.png", "images/voldemort":"voldemort_kirby.png",
+               "harry potter":"images/harry_potter_kirby.png", "dumbledore":"images/dumbledore_kirby.png", "voldemort":"images/voldemort_kirby.png",
                "coraline jacket": "images/coraline_mom_kirby.png",
                "charmander": "images/charmander_kirby.png", "squirtle": "images/squirtle_kirby.png", "bulbasoar": "images/bulbasoar_kirby.png",
                 "chikorita":"images/chikorita_kirby.png", "chimchar": "images/chimchar_kirby.png", "totodile":"images/totodile_kirby.png",
