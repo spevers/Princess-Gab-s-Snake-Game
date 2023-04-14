@@ -27,7 +27,7 @@ KIRBY_DICT = {"mario hat":"images/mario_kirby.png", "luigi hat": "images/luigi_k
                 "chikorita":"images/chikorita_kirby.png", "chimchar": "images/chimchar_kirby.png", "totodile":"images/totodile_kirby.png",
                 "no face": "images/no_face_kirby.png", "yubaba": "images/yubaba_kirby.png", "totoro":"images/totoro_kirby.png",
                 "ponyo":"images/ponyo_kirby.png", "mononoke":"images/mononoke_kirby.png",
-                "ryuk":"images/ryuk_kirby.png", "L":"images/L_kirby.png", }
+                "ryuk":"images/ryuk_kirby.png", "L":"images/L_kirby.png"}
 
 # ALL SNAKE BLOCKS WILL MOVE BY 1
 # ALL BLOCKS WILL BE A SET DISTANCE APART - this distance must be one dimensional and depends on the direction of the block in front of it
